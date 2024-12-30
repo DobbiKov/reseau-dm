@@ -18,31 +18,21 @@ This project was done for networking course during the third semester on double-
 6. To clean all the executables and additional directories, run: `make clean`
 
 ## Project overview
+```
 ├── README.md
-
 ├── tcp 
-
 │   ├── Makefile
-
 │   ├── client
-
 │   │   └── main.c
-
 │   └── server
-
 │       └── main.c
-
 └── udp 
-
     ├── Makefile
-
     ├── client
-
     │   └── main.c
-
     └── server
-
         └── main.c
+```
 
 There are two main directories:
 - `tcp` with client - server application build using **TCP** protocol
