@@ -19,17 +19,29 @@ This project was done for networking course during the third semester on double-
 
 ## Project overview
 ├── README.md
+
 ├── tcp 
+
 │   ├── Makefile
+
 │   ├── client
+
 │   │   └── main.c
+
 │   └── server
+
 │       └── main.c
+
 └── udp 
+
     ├── Makefile
+
     ├── client
+
     │   └── main.c
+
     └── server
+
         └── main.c
 
 There are two main directories:
